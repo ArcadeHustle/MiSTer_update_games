@@ -16,6 +16,7 @@ https://github.com/misteraddons/MiSTercade
 
 # raw wget commands
 wget https://github.com/develar/7zip-bin/raw/master/linux/arm/7za
+chmod +x 7za
 
 wget https://archive.org/download/Atari2600FullRomCollectionReuploadByDataghost/Atari%202600.7z
 ./7za x Atari 2600.7z
@@ -27,15 +28,16 @@ wget https://archive.org/download/Atari800FullRomCollectionReuploadByDataghost/A
 unrar Atari800.rar
 
 wget https://archive.org/compress/AtariSTRomCollectionByGhostware
+unzip AtariSTRomCollectionByGhostware
 
 wget https://archive.org/compress/C64RomCollectionByGhostware
+unzip C64RomCollectionByGhostware
 
 wget "https://archive.org/download/ColecoVisionCollection/ColecoVision.7z"
 ./7za ColecoVision.7z
 
 wget https://archive.org/download/Cyles_Gameboy_roms/GB.zip
-
-wget "https://archive.org/compress/GameBoyAdvanceTOSEC/formats=ZIP&file=/GameBoyAdvanceTOSEC.zip"
+unzip GB.zip
 
 wget https://archive.org/download/SegaGenesisCollection/Sega-Genesis.7z
 ./7za x Sega-Genesis.7z
@@ -52,17 +54,17 @@ unzip neo-geo-mvs-romset.zip
 wget "https://archive.org/compress/neo-geo-aes-romset/formats=ZIP&file=/neo-geo-aes-romset.zip"
 unzip neo-geo-aes-romset.zip
 
-wget "https://archive.org/compress/SegaMasterSystemCollectionByGhostware/formats=ZIP&file=/SegaMasterSystemCollectionByGhostware.zip"
+wget https://archive.org/download/famicom-disk-system-champion-collection/Champion%20Collection%20-%20Famicom%20Disk%20System.zip
+unzip Champion Collection - Famicom Disk System.zip
 
-wget https://ia802905.us.archive.org/35/items/SNESSpecialCollection/Super_Nintendo_Entertainment_System.7z
+wget https://archive.org/download/NESrompack/NESroms.rar
+unrar NESroms.rar
+
+wget "https://archive.org/compress/SegaMasterSystemCollectionByGhostware/formats=ZIP&file=/SegaMasterSystemCollectionByGhostware.zip"
+unzip SegaMasterSystemCollectionByGhostware.zip
+
+wget https://archive.org/compress/SNESSpecialCollection
 ./7za x Super_Nintendo_Entertainment_System.7z
 
 wget https://archive.org/download/TurboGrafx16AndPCEngineChampionCollection/Champion%20Collection%20-%20TurboGrafx-16%20and%20PC%20Engine.7z
 ./7za x Champion\ Collection\ -\ TurboGrafx-16\ and\ PC\ Engine.7z 
-
-
-
-
-
-
-

@@ -1,4 +1,4 @@
-# Platforms I care about
+# Platforms I care about, either personally, or just small enough to download
 
 ## Atari2600
 https://archive.org/details/Atari2600FullRomCollectionReuploadByDataghost<br>
@@ -63,7 +63,7 @@ https://archive.org/details/TurboGrafx16AndPCEngineChampionCollection<br>
 https://archive.org/download/TurboGrafx16AndPCEngineChampionCollection/Champion%20Collection%20-%20TurboGrafx-16%20and%20PC%20Engine.7z
 
 
-# Platforms I do not care about (fight me!)
+# Platforms I do not care about (fight me!), some are too large! others I have no connection to
 
 ## AcornAtom
 https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27/Acorn/Atom/
