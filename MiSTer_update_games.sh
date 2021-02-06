@@ -9,10 +9,10 @@ https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27/Acorn/Atom/
 https://archive.org/details/MITS_Altair_8800_TOSEC_2012_04_23
 
 # Amiga
-# https://archive.org/details/AmigaRomCollectionByGhostware_201711
+https://archive.org/details/AmigaRomCollectionByGhostware_201711
 
 # ao486
-# https://archive.org/details/mister-dos-collection.7z
+https://archive.org/details/mister-dos-collection.7z
 
 # Apogee
 
@@ -86,7 +86,7 @@ https://archive.org/details/VTech_Laser_310_TOSEC_2012_04_23
 Upate all pulls already
 
 # MegaCD
-# https://archive.org/details/SegaCDCollection
+https://archive.org/details/SegaCDCollection
 
 # MSX
 https://archive.org/details/MSXRomCollectionByGhostware
@@ -153,8 +153,7 @@ https://archive.org/details/Tandy_TRS80_Color_Computer_TOSEC_2012_04_23
 # Vector06
 
 # Vectrex
-
-# https://archive.org/details/VectrexCollection
+ https://archive.org/details/VectrexCollection
 
 # VIC20
 https://archive.org/details/CommodoreVIC20CollectionByGhostware
