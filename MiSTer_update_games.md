@@ -28,16 +28,9 @@ https://archive.org/download/ColecoVisionCollection/ColecoVision.7z
 https://archive.org/details/Cyles_Gameboy_roms<br>
 https://archive.org/download/Cyles_Gameboy_roms/GB.zip
 
-## GBA
-https://archive.org/details/GameBoyAdvanceTOSEC<br>
-https://archive.org/compress/GameBoyAdvanceTOSEC/formats=ZIP&file=/GameBoyAdvanceTOSEC.zip
 ## Genesis
 https://archive.org/details/SegaGenesisCollection<br>
 https://archive.org/download/SegaGenesisCollection/Sega-Genesis.7z
-
-## MegaCD
-https://archive.org/details/SegaCDCollection<br>
-https://archive.org/compress/SegaCDCollection/formats=7Z&file=/SegaCDCollection.zip
 
 ## MSX
 https://archive.org/details/MSXRomCollectionByGhostware<br>
@@ -120,6 +113,10 @@ https://archive.org/details/Emerson_Arcadia_2001_TOSEC_2012_04_23
 ## FXCAST
 Atari ST core
 
+## GBA
+https://archive.org/details/GameBoyAdvanceTOSEC<br>
+https://archive.org/compress/GameBoyAdvanceTOSEC/formats=ZIP&file=/GameBoyAdvanceTOSEC.zip
+
 ## hbmame
 Upate all pulls already
 
@@ -131,6 +128,10 @@ https://archive.org/details/Jupiter_Cantab_Jupiter_Ace_TOSEC_2012_04_23
 https://archive.org/details/VTech_Laser_310_TOSEC_2012_04_23
 
 ## MacPlus
+
+## MegaCD
+https://archive.org/details/SegaCDCollection<br>
+https://archive.org/compress/SegaCDCollection/formats=7Z&file=/SegaCDCollection.zip
 
 ## mame
 Upate all pulls already
