@@ -28,3 +28,18 @@ unzip neo-geo-mvs-romset.zip
 
 wget "https://archive.org/compress/neo-geo-aes-romset/formats=ZIP&file=/neo-geo-aes-romset.zip"
 unzip neo-geo-aes-romset.zip
+
+wget https://archive.org/download/SegaGenesisCollection/Sega-Genesis.7z
+./7za x Sega-Genesis.7z
+
+wget "https://archive.org/compress/MSXRomCollectionByGhostware/formats=ZIP&file=/MSXRomCollectionByGhostware.zip"
+unzip MSXRomCollectionByGhostware.zip
+
+wget "https://archive.org/compress/MSX2RomCollectionByGhostware/formats=ZIP&file=/MSX2RomCollectionByGhostware.zip"
+unzip MSX2RomCollectionByGhostware.zip
+
+wget "https://archive.org/download/ColecoVisionCollection/ColecoVision.7z"
+./7za ColecoVision.7z
+
+wget https://archive.org/compress/C64RomCollectionByGhostware
+

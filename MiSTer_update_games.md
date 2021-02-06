@@ -14,11 +14,11 @@ https://archive.org/download/Atari800FullRomCollectionReuploadByDataghost/Atari8
 
 ## AtariST
 https://archive.org/details/AtariSTRomCollectionByGhostware<br>
-https://ia800809.us.archive.org/zip_dir.php?path=/17/items/AtariSTRomCollectionByGhostware.zip&formats=ZIP
+https://archive.org/compress/AtariSTRomCollectionByGhostware
 
 ## C64
 https://archive.org/details/C64RomCollectionByGhostware<br>
-https://ia800904.us.archive.org/zip_dir.php?path=/27/items/C64RomCollectionByGhostware.zip
+https://archive.org/compress/C64RomCollectionByGhostware
 
 ## Coleco
 https://archive.org/details/ColecoVisionCollection<br>
@@ -63,7 +63,7 @@ https://archive.org/compress/SegaMasterSystemCollectionByGhostware/formats=ZIP&f
 
 ## SNES
 https://archive.org/details/SNESSpecialCollection<br>
-https://ia802905.us.archive.org/35/items/SNESSpecialCollection/Super_Nintendo_Entertainment_System.7z
+https://archive.org/compress/SNESSpecialCollection
 
 ## TGFX16
 https://archive.org/details/TurboGrafx16AndPCEngineChampionCollection<br>
