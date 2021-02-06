@@ -128,9 +128,7 @@ cd /media/fat/downloads/
 wget https://archive.org/download/famicom-disk-system-champion-collection/Champion%20Collection%20-%20Famicom%20Disk%20System.zip
 mkdir /media/fat/games/NES/Famicom
 cd /media/fat/games/NES/Famicom
-unzip /media/fat/downloads/Champion Collection - Famicom Disk System.zip
-unzip '*.zip'
-rm *.zip
+unzip /media/fat/downloads/Champion\ Collection\ -\ Famicom\ Disk\ System.zip
 
 cd /media/fat/downloads/
 wget https://archive.org/download/NESrompack/NESroms.rar
