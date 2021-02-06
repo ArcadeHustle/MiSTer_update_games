@@ -1,11 +1,7 @@
-MOUNT=`mount | grep mmcblk | cut -f3 -d " "`
-GAMES=`ls $MOUNT/games`
-echo $GAMES
-
 # Platforms I care about
 
 ## Atari2600
-https://archive.org/details/Atari2600FullRomCollectionReuploadByDataghost
+# https://archive.org/details/Atari2600FullRomCollectionReuploadByDataghost
 
 ## Atari5200
 https://archive.org/details/Atari5200Collection
