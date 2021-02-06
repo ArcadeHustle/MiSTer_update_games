@@ -69,6 +69,9 @@ echo "Partitioning SD card..."
 diskutil partitionDisk ${DEVICE} MBR ExFAT MiSTer_Data R ExFAT UBOOT 3M
 echo ""
 
+echo sleeping 
+sleep 5 
+
 echo "Copying MiSTer files..."
 if [ -d /Volumes/MiSTer_Data ]; then
     cp -Rv $DOWNLOAD_DIRECTORY/files/* /Volumes/MiSTer_Data/
@@ -102,11 +105,14 @@ echo "Writing uboot image to the UBOOT partition (sudo may ask for your password
 sudo dd if=${DOWNLOAD_DIRECTORY}/files/linux/uboot.img of=${DEVICE}s2 bs=64k
 echo ""
 
-echo "Disabling Spotlight indexing and removing relevant Spotlight folders..."
-sudo mdutil -d /Volumes/MiSTer_Data
-rm -rf /Volumes/MiSTer_Data/.Spotlight-V100
-rm -rf /Volumes/MiSTer_Data/.fseventsd
-echo ""
+echo sleeping
+sleep 5
+
+#echo "Disabling Spotlight indexing and removing relevant Spotlight folders..."
+#sudo mdutil -d /Volumes/MiSTer_Data
+#rm -rf /Volumes/MiSTer_Data/.Spotlight-V100
+#rm -rf /Volumes/MiSTer_Data/.fseventsd
+#echo ""
 
 echo "Ejecting SD card (this can take a few seconds)..."
 diskutil eject ${DEVICE}
