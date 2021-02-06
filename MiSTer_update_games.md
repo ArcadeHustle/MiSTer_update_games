@@ -75,11 +75,15 @@ https://archive.org/download/TurboGrafx16AndPCEngineChampionCollection/Champion%
 ## AcornAtom
 https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27/Acorn/Atom/
 
+## AliceMC10
+
 ## Altair8800
 https://archive.org/details/MITS_Altair_8800_TOSEC_2012_04_23
 
 ## Amiga
 https://archive.org/details/AmigaRomCollectionByGhostware_201711
+
+## Amstrad
 
 ## ao486
 https://archive.org/details/mister-dos-collection.7z
@@ -108,6 +112,8 @@ https://archive.org/details/AcornBBCMicroRomCollectionByGhostware
 ## C16
 https://archive.org/details/Commodore_C16_C116_Plus_4_TOSEC_2012_04_23
 
+## CoCo2
+
 ## CO2650
 https://archive.org/details/Emerson_Arcadia_2001_TOSEC_2012_04_23
 
@@ -134,6 +140,9 @@ Z80 + 6502, 6809
 
 ## Odyssey2
 https://archive.org/details/MagnavoxOdyssey2Collection
+
+# ORAO 
+https://archive.org/details/Pel_Varazdin_Orao_TOSEC_2012_04_23
 
 ## Oric
 https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23
