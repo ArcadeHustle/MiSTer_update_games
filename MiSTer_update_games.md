@@ -1,55 +1,73 @@
 # Platforms I care about
 
 ## Atari2600
-# https://archive.org/details/Atari2600FullRomCollectionReuploadByDataghost
+https://archive.org/details/Atari2600FullRomCollectionReuploadByDataghost
+https://archive.org/download/Atari2600FullRomCollectionReuploadByDataghost/Atari%202600.7z
 
 ## Atari5200
 https://archive.org/details/Atari5200Collection
+https://archive.org/download/Atari5200Collection/Atari-5200.7z
 
 ## Atari800
 https://archive.org/details/Atari800FullRomCollectionReuploadByDataghost
+https://archive.org/download/Atari800FullRomCollectionReuploadByDataghost/Atari800.rar
 
 ## AtariST
 https://archive.org/details/AtariSTRomCollectionByGhostware
+https://ia800809.us.archive.org/zip_dir.php?path=/17/items/AtariSTRomCollectionByGhostware.zip&formats=ZIP
 
 ## C64
 https://archive.org/details/C64RomCollectionByGhostware
+https://ia800904.us.archive.org/zip_dir.php?path=/27/items/C64RomCollectionByGhostware.zip
 
 ## Coleco
 https://archive.org/details/ColecoVisionCollection
+https://archive.org/download/ColecoVisionCollection/ColecoVision.7z
 
 ## GameBoy
 https://archive.org/details/Cyles_Gameboy_roms
+https://archive.org/download/Cyles_Gameboy_roms/GB.zip
 
 ## GBA
 https://archive.org/details/GameBoyAdvanceTOSEC
-
+https://archive.org/compress/GameBoyAdvanceTOSEC/formats=ZIP&file=/GameBoyAdvanceTOSEC.zip
 ## Genesis
 https://archive.org/details/SegaGenesisCollection
+https://archive.org/download/SegaGenesisCollection/Sega-Genesis.7z
 
 ## MegaCD
 https://archive.org/details/SegaCDCollection
+https://archive.org/compress/SegaCDCollection/formats=7Z&file=/SegaCDCollection.zip
 
 ## MSX
 https://archive.org/details/MSXRomCollectionByGhostware
+https://archive.org/compress/MSXRomCollectionByGhostware/formats=ZIP&file=/MSXRomCollectionByGhostware.zip
 https://archive.org/details/MSX2RomCollectionByGhostware
+https://archive.org/compress/MSX2RomCollectionByGhostware/formats=ZIP&file=/MSX2RomCollectionByGhostware.zip
 
 ## NeoGeo
 https://archive.org/details/neo-geo-mvs-romset
+https://archive.org/compress/neo-geo-mvs-romset/formats=ZIP&file=/neo-geo-mvs-romset.zip
 https://archive.org/details/neo-geo-aes-romset
+https://archive.org/compress/neo-geo-aes-romset/formats=ZIP&file=/neo-geo-aes-romset.zip
 
 ## NES
 https://archive.org/details/famicom-disk-system-champion-collection
 https://archive.org/details/NESrompack
+https://archive.org/download/famicom-disk-system-champion-collection/Champion%20Collection%20-%20Famicom%20Disk%20System.zip
+https://archive.org/download/NESrompack/NESroms.rar
 
 ## SMS
 https://archive.org/details/SegaMasterSystemCollectionByGhostware
+https://archive.org/compress/SegaMasterSystemCollectionByGhostware/formats=ZIP&file=/SegaMasterSystemCollectionByGhostware.zip
 
 ## SNES
 https://archive.org/details/SNESSpecialCollection
+https://ia802905.us.archive.org/35/items/SNESSpecialCollection/Super_Nintendo_Entertainment_System.7z
 
 ## TGFX16
 https://archive.org/details/TurboGrafx16AndPCEngineChampionCollection
+https://archive.org/download/TurboGrafx16AndPCEngineChampionCollection/Champion%20Collection%20-%20TurboGrafx-16%20and%20PC%20Engine.7z
 
 
 # Platforms I do not care about (fight me!)
