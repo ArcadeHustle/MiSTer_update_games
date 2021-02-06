@@ -12,10 +12,6 @@ https://archive.org/download/Atari5200Collection/Atari-5200.7z
 https://archive.org/details/Atari800FullRomCollectionReuploadByDataghost<br>
 https://archive.org/download/Atari800FullRomCollectionReuploadByDataghost/Atari800.rar
 
-## AtariST
-https://archive.org/details/AtariSTRomCollectionByGhostware<br>
-https://archive.org/compress/AtariSTRomCollectionByGhostware
-
 ## C64
 https://archive.org/details/C64RomCollectionByGhostware<br>
 https://archive.org/compress/C64RomCollectionByGhostware
@@ -94,6 +90,10 @@ https://archive.org/details/Mattel_Aquarious_TOSEC_2012_04_23
 
 ## Astrocade
 https://archive.org/details/Bally_Professional_Arcade_and_Astrocade_TOSEC_2012_04_23
+
+## AtariST
+https://archive.org/details/AtariSTRomCollectionByGhostware<br>
+https://archive.org/compress/AtariSTRomCollectionByGhostware
 
 ## AY-3-8500
 
