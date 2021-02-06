@@ -110,17 +110,19 @@ unzip /media/fat/downloads/MSX2RomCollectionByGhostware.zip
 unzip '*.zip'
 rm *.zip
 
+# Broken for Mister
 cd /media/fat/downloads/
 wget "https://archive.org/compress/neo-geo-mvs-romset/formats=ZIP&file=/neo-geo-mvs-romset.zip"
 mkdir /media/fat/games/NeoGeo/MVS
 cd /media/fat/games/NeoGeo/MVS
-unzip /media/fat/downloads/neo-geo-mvs-romset.zip
+#unzip /media/fat/downloads/neo-geo-mvs-romset.zip
 
+# Broken for Mister
 cd /media/fat/downloads/
 wget "https://archive.org/compress/neo-geo-aes-romset/formats=ZIP&file=/neo-geo-aes-romset.zip"
 mkdir /media/fat/games/NeoGeo/AES
 cd /media/fat/games/NeoGeo/AES
-unzip /media/fat/downloads/neo-geo-aes-romset.zip
+#unzip /media/fat/downloads/neo-geo-aes-romset.zip
 
 cd /media/fat/downloads/
 wget https://archive.org/download/famicom-disk-system-champion-collection/Champion%20Collection%20-%20Famicom%20Disk%20System.zip
@@ -139,6 +141,8 @@ cd /media/fat/downloads/
 wget "https://archive.org/compress/SegaMasterSystemCollectionByGhostware/formats=ZIP&file=/SegaMasterSystemCollectionByGhostware.zip"
 cd /media/fat/games/SMS
 unzip /media/fat/downloads/SegaMasterSystemCollectionByGhostware.zip
+unzip '*.zip'
+rm *.zip
 
 cd /media/fat/downloads/
 wget https://archive.org/compress/SNESSpecialCollection
@@ -149,3 +153,5 @@ cd /media/fat/downloads/
 wget https://archive.org/download/TurboGrafx16AndPCEngineChampionCollection/Champion%20Collection%20-%20TurboGrafx-16%20and%20PC%20Engine.7z
 cd /media/fat/games/TGFX16
 /media/fat/downloads/7za x /media/fat/downloads/Champion\ Collection\ -\ TurboGrafx-16\ and\ PC\ Engine.7z 
+unzip '*.zip'
+rm *.zip
