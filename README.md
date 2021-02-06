@@ -42,12 +42,10 @@ cd /media/fat/games/ATARI800
 mv Atari800/* .
 rm -rf Atari800
 
-# Needs fixed, corrupt zip
 cd /media/fat/downloads/
 wget https://archive.org/compress/C64RomCollectionByGhostware
 cd /media/fat/games/C64
-mv /media/fat/downloads/C64RomCollectionByGhostware /media/fat/downloads/C64RomCollectionByGhostware.zip
-unzip /media/fat/downloads/C64RomCollectionByGhostware.zip 
+unzip /media/fat/downloads/C64RomCollectionByGhostware 
 
 cd /media/fat/downloads/
 wget "https://archive.org/download/ColecoVisionCollection/ColecoVision.7z"
@@ -110,19 +108,14 @@ unzip /media/fat/downloads/MSX2RomCollectionByGhostware.zip
 unzip '*.zip'
 rm *.zip
 
-# Broken for Mister
 cd /media/fat/downloads/
-wget "https://archive.org/compress/neo-geo-mvs-romset/formats=ZIP&file=/neo-geo-mvs-romset.zip"
-mkdir /media/fat/games/NeoGeo/MVS
-cd /media/fat/games/NeoGeo/MVS
-#unzip /media/fat/downloads/neo-geo-mvs-romset.zip
-
-# Broken for Mister
-cd /media/fat/downloads/
-wget "https://archive.org/compress/neo-geo-aes-romset/formats=ZIP&file=/neo-geo-aes-romset.zip"
-mkdir /media/fat/games/NeoGeo/AES
-cd /media/fat/games/NeoGeo/AES
-#unzip /media/fat/downloads/neo-geo-aes-romset.zip
+wget https://archive.org/download/darksoft/Darksoft%20Neo%20Geo%202020-05-12.7z
+cd /media/fat/games/NeoGeo/
+/media/fat/downloads/7za x Darksoft\ Neo\ Geo\ 2020-05-12.7z
+wget https://gitlab.com/loic.petit/darksoft-to-neosd/-/archive/master/darksoft-to-neosd-master.zip
+unzip darksoft-to-neosd-master.zip 
+#python darksoft-to-neosd-master/convert.py -x 
+wget https://github.com/MiSTer-devel/NeoGeo_MiSTer/raw/master/releases/romsets.xml
 
 cd /media/fat/downloads/
 wget https://archive.org/download/famicom-disk-system-champion-collection/Champion%20Collection%20-%20Famicom%20Disk%20System.zip
