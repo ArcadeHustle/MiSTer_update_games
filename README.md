@@ -15,6 +15,7 @@ Move configs over
 https://github.com/misteraddons/MiSTercade
 
 # raw wget commands
+```
 cd /media/fat/downloads/
 wget https://github.com/develar/7zip-bin/raw/master/linux/arm/7za
 chmod +x 7za
@@ -146,3 +147,4 @@ cd /media/fat/games/TGFX16
 /media/fat/downloads/7za x /media/fat/downloads/Champion\ Collection\ -\ TurboGrafx-16\ and\ PC\ Engine.7z 
 unzip '*.zip'
 rm *.zip
+```
