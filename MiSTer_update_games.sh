@@ -26,11 +26,6 @@ mv Atari800/* .
 rm -rf Atari800
 
 cd /media/fat/downloads/
-wget https://archive.org/compress/C64RomCollectionByGhostware
-cd /media/fat/games/C64
-unzip /media/fat/downloads/C64RomCollectionByGhostware 
-
-cd /media/fat/downloads/
 wget "https://archive.org/download/ColecoVisionCollection/ColecoVision.7z"
 cd /media/fat/games/Coleco
 /media/fat/downloads/7za x /media/fat/downloads/ColecoVision.7z

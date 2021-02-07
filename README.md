@@ -32,10 +32,6 @@ https://archive.org/download/Atari5200Collection/Atari-5200.7z
 https://archive.org/details/Atari800FullRomCollectionReuploadByDataghost<br>
 https://archive.org/download/Atari800FullRomCollectionReuploadByDataghost/Atari800.rar
 
-## C64
-https://archive.org/details/C64RomCollectionByGhostware<br>
-https://archive.org/compress/C64RomCollectionByGhostware
-
 ## Coleco
 https://archive.org/details/ColecoVisionCollection<br>
 https://archive.org/download/ColecoVisionCollection/ColecoVision.7z
@@ -124,6 +120,10 @@ https://archive.org/details/AcornBBCMicroRomCollectionByGhostware
 
 ## C16
 https://archive.org/details/Commodore_C16_C116_Plus_4_TOSEC_2012_04_23
+
+## C64
+https://archive.org/details/C64RomCollectionByGhostware<br>
+https://archive.org/compress/C64RomCollectionByGhostware
 
 ## CoCo2
 
